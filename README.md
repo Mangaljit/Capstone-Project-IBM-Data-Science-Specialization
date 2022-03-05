@@ -1,1 +1,1 @@
-# Capstone_IBM_Data_Science
+# Capstone Project for IBM Data Science Specialization
