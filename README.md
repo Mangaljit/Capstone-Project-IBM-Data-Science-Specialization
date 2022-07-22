@@ -1,1 +1,1 @@
-# Capstone Project for IBM Data Science Specialization
+This is the Capstone project, which is a part of Data Science Specialization by IBM available on Coursera.
